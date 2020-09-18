@@ -1,0 +1,29 @@
+
+            h1{
+                color: brown;
+            }
+            h2{
+                color: crimson;
+            }
+            h3{
+                color: darkolivegreen;
+            }
+            body{
+                background-color: rgb(154, 219, 224);
+            }
+            
+     .ball{
+         background-color: salmon;
+         display: flex;
+         justify-content: space-evenly;
+     }
+     .header{
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: baseline;
+     }
+     .boy{
+         display: flex;
+         flex-wrap: wrap;
+         justify-content: space-around;
+     }
